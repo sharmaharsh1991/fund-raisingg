@@ -1,5 +1,5 @@
 <?php
-/*
+/* **
 Plugin Name: Fundraising
 Description: Shown price according to District code
 Version: 1.0
